@@ -26,4 +26,5 @@ It is running. The ``` are not necessary in the files. It is Markdown.
 Just to test a PR for added YML
 
 
-Remember us a PR to make this work.
+Aaron's version of Boot.dev's Notely app.
+
